@@ -1,6 +1,5 @@
 ## AlmaBetter-Frontend Resume builder Project
-
-## A simple resume builder web app developed in react.
+A simple resume builder web app developed in react.
 
 
 ## Frameworks that are used in this project.
