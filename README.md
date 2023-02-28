@@ -10,9 +10,9 @@ A simple resume builder web app developed in react.
   - React-avatar-edit, for selecting profile image for resume.
   - React-router-dom, for routing.
  ## Deployment
- -This app has been deployed on https://almaresumemaker.netlify.app/
+ - This app has been deployed on https://almaresumemaker.netlify.app/
  ## Demo
- -
+ - https://drive.google.com/file/d/1jW6tEXmGhFVb4DJFadr5tWORBrE6sd7Y/view?usp=sharing
  
  
 
