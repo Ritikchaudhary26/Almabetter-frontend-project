@@ -9,6 +9,10 @@ A simple resume builder web app developed in react.
   - Redux, for state management.  
   - React-avatar-edit, for selecting profile image for resume.
   - React-router-dom, for routing.
+ ## Deployment
+ -This app has been deployed on https://almaresumemaker.netlify.app/
+ ## Demo
+ -
  
  
 
